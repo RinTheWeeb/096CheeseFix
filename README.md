@@ -3,6 +3,7 @@ A SCP:SL Plugin that fixes the cheesing of 096's flaw by staring at your feet to
 
 When players are standing beside 096 or try and cheese their way by looking down and running past/through him, 096 will get triggered.
 
+
 Requires [EXILED](https://github.com/galaxy119/EXILED/).
 
 Credits: RogerFK for his readme template.
